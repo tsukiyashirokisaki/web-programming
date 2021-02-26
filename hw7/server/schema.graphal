@@ -1,0 +1,22 @@
+const typeDefs = `
+  type Query {
+    messages: [Message]
+  }
+
+  type Message {
+    id: ID!
+    name: String!
+    body: String!
+ }
+
+  type Mutation {
+    createMessage(name: String!, body: String!): Message!
+    clearMessage: Boolean!
+  }
+
+  type Subscription {
+    newMessage: Message
+  }
+`;
+
+module.exports = typeDefs;
