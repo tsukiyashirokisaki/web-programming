@@ -1,12 +1,12 @@
-# web-programming
-## hw1_image_viewer
-## hw2_todolist_starter
-## hw3_todolist_in_React
-## hw4_calculator
-## hw5_guessing_game
-## hw6_simple_chat
-## hw7_simple_chat_with_graphql
-## hw8_simple_chat_with_graphql
+# Web Programming
+## hw1 Image Viewer
+## hw2 Todolist Starter
+## hw3 Rodolist in React
+## hw4 Calculator
+## hw5 Guessing Game
+## hw6 Simple Chat
+## hw7 Simple Chat with Graphql (backend)
+## hw8 Simple Chat with Graphql (frontend+backend)
 
 
 
